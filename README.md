@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mounika
+- 🌱 I’m currently learning python and machine learning
+- 📫 you can reach me at youngashley067@gmail.com
